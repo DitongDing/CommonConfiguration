@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.wordWrapColumn": 120,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.minimap.maxColumn": 95,
+    "editor.rulers": [100, 120],
+    "editor.autoClosingBrackets": false,
+    "editor.fontSize": 12,
+    "window.zoomLevel": 0,
+    "editor.insertSpaces": true,
+}
