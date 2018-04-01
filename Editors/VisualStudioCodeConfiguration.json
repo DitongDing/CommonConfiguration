@@ -8,5 +8,7 @@
     "editor.fontSize": 12,
     "window.zoomLevel": 0,
     "editor.insertSpaces": true,
-    "terminal.integrated.shell.windows": "C:\\ProgramFiles\\Git\\bin\\bash.exe"
+    "terminal.integrated.shell.windows": "C:\\ProgramFiles\\Git\\bin\\bash.exe",
+    "explorer.confirmDragAndDrop": false,
+    "editor.wordBasedSuggestions": false
 }
