@@ -1,0 +1,4 @@
+export LANG="en_us.utf-8"
+export PS1="
+%{%}(%D %*) <%?> [%~]  %{%}
+%{%}%m %#%{%} "
